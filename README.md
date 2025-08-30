@@ -1,2 +1,2 @@
 # amigo-secreto
-Javascript rutina que elige un amigo de forma aleatoria de un array creado de amigos y que son ingresados con un boton, cuando se decide se presiona otro boton y elige de forma aleatoria un amigo denominado secreto.
+Código en javascript que crea un array para almacenar nombres de amigos, para luego de presionar un botón elija aleatoriamente un nombre de ese array.
